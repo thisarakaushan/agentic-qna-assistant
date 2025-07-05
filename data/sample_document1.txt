@@ -1,0 +1,11 @@
+This document introduces the basics of Python programming.
+
+Python is a high-level, interpreted programming language known for its readability and simplicity. 
+It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Common Python concepts include variables, loops, functions, and data structures.
+
+A 'for' loop in Python is used to iterate over a sequence like a list or a string. 
+Example: for item in [1, 2, 3]: print(item)
+
+Python is widely used in data science, web development, automation, and artificial intelligence.

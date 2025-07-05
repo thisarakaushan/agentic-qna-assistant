@@ -1,0 +1,8 @@
+gradio
+langchain
+faiss-cpu
+transformers
+python-dotenv
+torch
+langchain-community
+sentence-transformers

@@ -1,0 +1,9 @@
+This document provides an overview of typical responsibilities for machine learning roles.
+
+A Machine Learning Engineer is responsible for designing, building, and deploying ML models. 
+They work on preprocessing data, training algorithms, and optimizing performance.
+
+Key skills include Python, PyTorch, TensorFlow, and experience with MLOps tools like MLflow and Airflow. 
+Engineers often work with large datasets and focus on scalability, efficiency, and reproducibility.
+
+Additional experience with LLMs, prompt engineering, and cloud platforms (AWS, GCP) is often preferred.
