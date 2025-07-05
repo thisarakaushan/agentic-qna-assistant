@@ -65,7 +65,7 @@ Example questions:
 - The assistant remembers previous questions and responses.
 - You can ask **follow-up questions** for better contextual answers.
 
-🗣️ Example:
+Example:
 - “What are the responsibilities?” → “And what tools are needed?”
 
 Resetting chat **clears** this memory context.

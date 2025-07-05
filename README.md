@@ -125,4 +125,4 @@ Try questions like:
 - Clear setup instructions  
 - Multi-document upload & chat memory  
 - End-user ready Gradio UI  
-- Usage guide provided
+- [Usage guide](https://github.com/thisarakaushan/agentic-qna-assistant/blob/main/docs/usage_guide.md) provided
