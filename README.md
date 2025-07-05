@@ -44,6 +44,8 @@ pip install -r requirements.txt
 
 # 5. Launch the Gradio app
 python src/ui/gradio_app.py
+or
+python -m src.ui.gradio_app
 
 # Once started, the app will be available at:
 http://127.0.0.1:7860 
@@ -83,7 +85,7 @@ agentic-qna-assistant/
 
 ---
 
-## 📘 Example Use Cases
+## Example Use Cases
 
 - Analyze job role descriptions (e.g., ML Engineer)
 - Ask questions from Python tutorials or lecture notes
