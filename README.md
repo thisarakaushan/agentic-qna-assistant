@@ -35,4 +35,6 @@ venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 
 # 4. Launch the Gradio interface
-python src/ui/gradio_app.py
+python src/ui/gradio_app.py 
+or
+python -m src.ui.gradio_app
