@@ -15,8 +15,6 @@ Features:
 - Real-time Q&A with `flan-t5-base`  
 - Clear chat history/reset support
 
-> Designed to simulate a contextual assistant for job role analysis, technical documents, policies, or research papers.
-
 ---
 
 ## Setup Instructions
@@ -48,12 +46,13 @@ pip install -r requirements.txt
 python src/ui/gradio_app.py
 
 # Once started, the app will be available at:
-http://127.0.0.1:7860
+http://127.0.0.1:7860 ```
 
 ---
 
 ## Project Structure
 
+```
 agentic-qna-assistant/
 ├── data/                     # Saved FAISS vector index and sample_documents
 ├── src/
@@ -64,6 +63,7 @@ agentic-qna-assistant/
 │       └── gradio_app.py            # Gradio interface
 ├── requirements.txt
 
+```
 
 ---
 
