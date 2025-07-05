@@ -46,7 +46,9 @@ pip install -r requirements.txt
 python src/ui/gradio_app.py
 
 # Once started, the app will be available at:
-http://127.0.0.1:7860 ```
+http://127.0.0.1:7860 
+
+```
 
 ---
 
